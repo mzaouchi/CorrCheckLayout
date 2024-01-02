@@ -1,0 +1,50 @@
+#logo{
+    width: 268px;
+    height: 33px;
+}
+
+ul{
+    width: 251px;
+    display: flex;
+    justify-content: space-around;
+}
+
+li{
+    list-style: none;
+    color: #ababab;
+    font-weight: bold;
+}
+
+#jordan{
+    color: #00b39b;
+}
+
+#header{
+    display: flex;
+    justify-content: space-around;
+}
+
+#alhassane{
+    display: flex;
+    justify-content: center;
+}
+
+#elvige{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: #00b39b;
+}
+
+#mahmoud{
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+    width: 500px;
+    color: #747474;
+    line-height: 30px;
+}
